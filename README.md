@@ -9,7 +9,7 @@ Shoutout to Mark Toma, his Myo Mex repo (https://github.com/mark-toma/MyoMex) ha
 
 ## Repo Contents 
 
-**configs.m** - *Only file you need to edit!* configs contains all necessary parameters to run HAND and adjust how data is collected, proccessed, and waht gestures are identified. Futre version will allow for greater customization of program.
+**configs.m** - *Only file you need to edit!* configs contains all necessary parameters to run HAND and adjust how data is collected, proccessed, and what gestures are identified. Futre version will allow for greater customization of program.
 
 **ModelTrainMain.m** - Main loop to collect data and train models. Running this script will prompt a user thorugh a full data collection session, save trainign data, train multiple classifiers and select the most accurate one to be deployed later. 
 
