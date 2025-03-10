@@ -1,7 +1,7 @@
 # HAND
 Human Augmentation w/ Neural Data (EMG ML Pipeline)
 
-This repository is a end-to-end machine learning pipeline for EMG gesture recognition. Currently uses Thalmic Labs myo armband to collect data, MATLAB to proccess data amd train model and a 5 servo robotic hand controlled by an Arduino Uno as the end effector. With ~5 minutes of data collection this pipeline can train a 97%+ accurate gesture classifier and deploy it in real time to a prosthetic limb. This program was originally designed to enable EMG research in our SyNAPCE Lab and to provide a practical example of applied machine learning to computational analysis students. 
+This repository is an end-to-end machine learning pipeline for EMG gesture recognition. Currently uses Thalmic Labs myo armband to collect data, MATLAB to proccess data amd train model, and a 5 servo robotic hand controlled by an Arduino Uno as the end effector. With ~5 minutes of data collection this pipeline can train a 97%+ accurate gesture classifier from scratch and deploy it in real time to a prosthetic limb. This program was originally designed to enable EMG research in our SyNAPCE Lab and to provide a practical example of applied machine learning to computational analysis students. 
 
 ## Acknowledgements 
 
